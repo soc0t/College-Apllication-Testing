@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EPQ Testing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Student_Life">Student Life</string>
+    <string name="Log_In">Log In</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_alarm_clock">AlarmClock</string>
+    <string name="title_activity_homework">Homework</string>
+    <string name="title_activity_calculator">Calculator</string>
+</resources>
